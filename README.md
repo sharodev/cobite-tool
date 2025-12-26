@@ -32,8 +32,6 @@ and develop more effective detection and mitigation strategies against malicious
 - Clear separation between core logic and simulations
 - Emphasis on safe execution and cleanup
 
-See `docs/architecture.md` for design details.
-
 ## Use Cases
 - Studying protocol trust assumptions
 - Observing MITM-related behaviors in lab environments
